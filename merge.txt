@@ -1,1 +1,5 @@
+ 
+pruebas de merge.txt
+
 esta es una prueba de como hacer conflictos
+ 
